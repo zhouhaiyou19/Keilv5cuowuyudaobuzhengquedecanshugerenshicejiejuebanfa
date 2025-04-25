@@ -1,1 +1,31 @@
-# Keilv5cuowuyudaobuzhengquedecanshugerenshicejiejuebanfa
+# Keil v5 错误：遇到不正确的参数 个人实测解决办法
+
+## 描述
+本资源文件提供了一个针对Keil v5中“Encountered an improper argument”错误的个人实测解决办法。经过实际测试，该方法能够有效解决仿真时无法关闭debug的问题，确保项目运行正常。
+
+## 使用说明
+1. 下载本资源文件。
+2. 按照文件中的步骤进行操作。
+3. 重新启动Keil v5并进行仿真测试。
+
+## 注意事项
+- 请确保按照文件中的步骤逐一操作，避免遗漏。
+- 如果在操作过程中遇到其他问题，请参考Keil v5的官方文档或寻求技术支持。
+
+## 适用版本
+- Keil v5
+
+## 贡献
+如果您有更好的解决办法或改进建议，欢迎提交贡献。
+
+## 许可证
+本资源文件遵循MIT许可证。
+
+## 下载链接
+[Keilv5错误遇到不正确的参数个人实测解决办法](https://pan.quark.cn/s/2649c3134de6) 
+
+(备用: [备用下载](https://pan.baidu.com/s/1qkbl63TjVYY6bh-7CDImvg?pwd=1234))
+
+## 说明
+
+该仓库仅用于学习交流，请勿用于商业用途。
